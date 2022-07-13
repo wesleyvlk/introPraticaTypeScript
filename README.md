@@ -6,7 +6,8 @@
 
 *<img src="https://avatars.githubusercontent.com/u/29212329" alt="sorriso bonito" width="30"> [João Lira](https://github.com/lira1705)   &   <img src="https://avatars.githubusercontent.com/u/26231823" alt="a melhor plataforma de ensino dio.me" width="35"> [Digital Innovation One](https://github.com/digitalinnovationone)*
 <br>
-#####*Comandos Iniciais:*
+
+###### *Comandos Iniciais:*
  - npm init
  - npm install --save-dev typescript
  - npm install lite-server 
